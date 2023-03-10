@@ -1,4 +1,4 @@
-# v2ray-core for linux
+# v2ray with ui for linux
 Qt ui for v2ray with the core of it, that can be used directively
 
 usage:
