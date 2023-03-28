@@ -3,20 +3,27 @@ Qt ui for v2ray with the core of it, that can be used directively
 
 usage:
 
+1. use script to auto install
 
-1.give permission
+
+    `bash ./install.sh`
+
+2. install yourself
 
 
-  `chmod a+x Qv2ray-v2.7.0-linux-x64.AppImage`
+    i. give permission
+
+
+    `chmod a+x Qv2ray-v2.7.0-linux-x64.AppImage`
   
   
-2.run 
+    ii.run 
 
 
-  `./Qv2ray-v2.7.0-linux-x64.AppImage`
+    `./Qv2ray-v2.7.0-linux-x64.AppImage`
   
   
-3.cp v2ray core to installed path
+    iii.cp v2ray core to installed path
 
 
-  `cp -a vcore ~/.config/qv2ray/vcore`
+    `cp -a vcore ~/.config/qv2ray/vcore`
